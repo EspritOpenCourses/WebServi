@@ -9,7 +9,8 @@ class Calcul{
     {
       return -1;
    }
-   
+  }
+
 }
 
 $wsdl	= 'serv.wsdl';
